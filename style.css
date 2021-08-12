@@ -71,12 +71,6 @@ body{
     justify-content: center;
     margin: 200px 20px;
     margin-bottom: 80px;
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-    /* flex-direction: column; */
-    /* border: 2px solid red; */
-    /* width: 95%;
-    height: 95%; */
 }
 
 .item{
@@ -106,4 +100,44 @@ img{
     background: #f0f0f0;
     box-shadow: inset -5px -5px 10px #dddddd,
                 inset 5px 5px 10px #ffffff;
+}
+
+/* ======================== */
+
+.contact{
+    display: flex;
+    border: 2px solid red;
+    align-items: center;
+    justify-content: center;
+}
+
+.fcontainer{
+    display: flex;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.fitem{
+    background-image: linear-gradient(rgb(152, 255, 255), rgb(220, 154, 247));
+    border-radius: 15px;
+    margin: 50px 100px 0px 50px;
+    width: 250px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+} 
+
+.fitem:hover{
+    background-image: linear-gradient(rgb(0, 255, 255), rgb(183, 0, 255));
+    border-radius: 15px;
+} 
+
+.fitem h2{
+    text-align: center;
+    margin: auto;
+}
+
+.fitem h2 a{
+    text-decoration: none;
 }
