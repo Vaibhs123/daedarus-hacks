@@ -141,3 +141,21 @@ img{
 .fitem h2 a{
     text-decoration: none;
 }
+
+footer{
+    text-align: center;
+    width: 800px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+
+}
+
+footer h3 a{
+    text-decoration: none;
+    color: black;
+}
+
+footer h3 a:hover{
+    text-decoration: underline;
+}
