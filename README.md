@@ -21,5 +21,5 @@
 #### We are proud that we were able to solve a real-world problem and build a project which can help many folks in their daily life. 
 
 ## What's next for B∞KMark: 
-#### In the future, we will be adding more apps to this website, and also an individual can sign up and customize this website with their own personal favorite websites.
+#### In the future, we will be adding more apps to this website, also an individual can sign up and customize this website with their personal favorite websites.
 
