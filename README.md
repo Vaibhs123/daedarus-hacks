@@ -6,7 +6,8 @@
 ## What it does: 
 #### To rescue you from searching for the website or looking for the perfect bookmark, you can simply bookmark this one website and get easy access to the most used apps developed by Google.
 
-## How we built it: We built this using HTML5 and CSS3 and deployed it on Netlify.app
+## How we built it: 
+#### We built this using HTML5 and CSS3 and deployed it on Netlify.app
 
 ## Challenges we ran into: 
 #### The biggest challenge we faced was that we had to make it look attractive and appealing without using animations to keep the website fast and simple. 
