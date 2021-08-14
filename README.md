@@ -1,4 +1,4 @@
-# daedarus' hack
+# B∞KMark
 
 ## Inspiration: 
 #### 99% of the people bookmark their favorite websites to have quick and easy access. But what if a person has a lot of favorite websites or websites they use frequently in their day-to-day life. It becomes a tedious job to search for the perfect bookmark in the big list. So here our project comes to your rescue.
